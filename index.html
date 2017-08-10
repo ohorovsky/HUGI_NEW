@@ -5,18 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Huri</title>
-    <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet"> 
   <link href="styles.css" rel="stylesheet"></head>
   <body>
-  
+  <div class="overlay-first-load">
+    <img src="./src/img/logo-kruh.svg" alt="">
+  </div>
     <div class="wrapper">
-      <nav>
+      <nav class="">
         <ul class="full-nav">
             <a href=""><li>Home</li></a>
             <a href=""><li>Martin</li></a>
             <a href=""><li>Portfolio</li></a>
             <a href=""><li>Kontakt</li></a>
-            <a href=""><li>Chcem Video</li></a>
+            <a href=""><li class="btn-basic toChange">Chcem Video</li></a>
         </ul>
         <a class="menuBtn">
           <span class="icon-line"></span>
@@ -65,10 +67,35 @@
           <button class="btn-invert"> OK, TAK Co DALEJ</button>
         </div>
       </section>
+      <section class="portfolio-entry">
+        <div class="portfolio-main">
+          <h1>AHOJ, SOM martinTHEFILMMAKER...</h1>
+          <p>som nabitý vášňou tvoriť pozitívne video-emócie. A v prípade, že sa vám moje portfólio páči, som pripravený s vami natočiť poriadnu emočnú smršť...</p>
+          <button class="btn-basic"></button>
+        </div>
+        <div class="footer">
+          <div class="footer-left">
+            <img src="./src/img/Logo.png" alt="">
+          </div>
+          <div class="footer-middle">
+            <div class="footer-middle-heading">SOM VZDY TU</div>
+            <div class="footer-middle-contact">
+              <p>martinmartin@martin.com</p>
+              <p>00421999555111</p>
+            </div>
+          </div>
+          <div class="footer-right">
+            <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          </div>
+        </div>
+      </section>
     </div>
 
     
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+    <script src="https://use.fontawesome.com/b70e0f0a83.js"></script>
   <script type="text/javascript" src="app.min.js"></script></body>
 </html>
