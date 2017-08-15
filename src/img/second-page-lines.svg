@@ -1,1 +1,17 @@
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080"><style>.st0{stroke:#a0871d;stroke-width:.5;stroke-miterlimit:10}.st0,.st1{fill:none}</style><path id="XMLID_2609_" class="st0" d="M519.6 640.7L1078 73.6"/><path id="XMLID_2608_" class="st0" d="M463.5 595.2l1048.1 315.2"/><path id="XMLID_1760_" class="st0" d="M760.7 208.3l341.2-151.6"/><path id="XMLID_2607_" class="st0" d="M1655.8 44.3l232.2 709"/><path id="XMLID_1758_" class="st0" d="M322 836.6L66.8 327.9"/><path id="XMLID_2605_" class="st0" d="M789.1 275.6l1007.1 307.1"/><path id="XMLID_3_" class="st0" d="M836 1080c100-101 201-202 299.5-304.6"/><path id="_x3C_Slice_x3E_" class="st1" d="M1196 1080h87v29h-87z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#A0871D;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{fill:none;}
+</style>
+<line id="XMLID_2609_" class="st0" x1="519.6" y1="640.7" x2="1078" y2="73.6"/>
+<line id="XMLID_2608_" class="st0" x1="463.5" y1="595.2" x2="1511.6" y2="910.4"/>
+<line id="XMLID_1760_" class="st0" x1="760.7" y1="208.3" x2="1101.9" y2="56.7"/>
+<line id="XMLID_2607_" class="st0" x1="1655.8" y1="44.3" x2="1888" y2="753.3"/>
+<line id="XMLID_1758_" class="st0" x1="322" y1="836.6" x2="66.8" y2="327.9"/>
+<line id="XMLID_2605_" class="st0" x1="789.1" y1="275.6" x2="1796.2" y2="582.7"/>
+<path id="XMLID_3_" class="st0" d="M836,1080c100-101,201-202,299.5-304.6"/>
+<rect id="_x3C_Slice_x3E_" x="1196" y="1080" class="st1" width="87" height="29"/>
+</svg>
